@@ -36,5 +36,5 @@ Work in progress — last updated: 2025-11-26
 MIT
 
 ## Author
-- Sakura Winter (Sumit)
+Sakura Winter (Sumit)
 
